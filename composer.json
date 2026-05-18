@@ -1,0 +1,17 @@
+{
+    "name": "michaelarazon/ws03-php",
+    "description": "Jobees PHP Project",
+    "authors": [
+        {
+            "name": "Michaela Angel Razon",
+            "email": "michaelarazon720@email.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "framework/",
+            "Framework\\Middleware\\": "framework/Middleware/",
+            "App\\": "app/"
+        }
+    }
+}
