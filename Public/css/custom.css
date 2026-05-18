@@ -327,6 +327,10 @@ textarea:focus {
    SHOWCASE HERO OVERLAY
    ================================================================ */
 
+.showcase {
+  background-attachment: fixed;
+}
+
 .overlay {
   position: absolute;
   inset: 0;

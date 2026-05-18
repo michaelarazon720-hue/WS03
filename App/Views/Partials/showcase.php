@@ -1,7 +1,6 @@
 <!-- Showcase -->
     <section
-      class="showcase relative bg-cover bg-center bg-no-repeat h-72 flex items-center"
-    >
+      class="showcase relative bg-cover bg-center bg-no-repeat h-72 flex items-center"      style="background-image: url('https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=400&fit=crop');"    >
       <div class="overlay"></div>
       <div class="container mx-auto text-center z-10">
         <h2 class="text-4xl text-white font-bold mb-4">Find Your Dream Job</h2>
